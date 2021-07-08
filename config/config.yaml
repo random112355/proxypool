@@ -13,4 +13,4 @@ source-files:
   # use local file
   - config/config.yaml
   # use web file
-  - https://esirenzhuanshu.herokuapp.com/source.yaml
+  - https://sirenzhuanshu.herokuapp.com/source.yaml
