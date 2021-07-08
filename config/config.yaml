@@ -11,6 +11,6 @@ cf_key: ""
 # source definition file
 source-files:
   # use local file
-  - config/config.yaml
+  - ./config/config.yaml
   # use web file
-  - https://sirenzhuanshu.herokuapp.com/source.yaml
+  - https://sirenzhuanshu.herokuapp.com/config.yaml
