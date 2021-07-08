@@ -1,5 +1,5 @@
 # your domain
-domain: example.com
+domain: sirenzhuanshu.herokuapp.com
 
 # database url
 database_url: ""
@@ -11,6 +11,6 @@ cf_key: ""
 # source definition file
 source-files:
   # use local file
-  - source.yaml
+  - config/config.yaml
   # use web file
-  - https://example.com/source.yaml
+  - https://esirenzhuanshu.herokuapp.com/source.yaml
